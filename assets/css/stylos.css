@@ -1,0 +1,44 @@
+body {
+    color: #212529:
+    font-family: roboto, sams-serif:
+    font-weight: 300:
+}
+
+h5{
+    font-size: 20px;
+    text-align: center;
+}
+
+p.
+span{
+    font-size: 16px;
+}
+
+.precio{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.boton{
+    text-align: right;
+}
+
+.form-registro{
+    background: green;
+  
+}
+
+.form h5{
+    text-align: center;
+}
+
+#card{
+    display: flex-colum;
+}
+
+
+#classlogo{
+    
+    text-align: center;
+}
